@@ -1,5 +1,5 @@
 # Bachelor-degree-thesis
-This is my thesis in physics for my bachelor degree. The total credit is 3ECTS, so it isn't very complicate
+This is my thesis in physics for my bachelor degree. The total credit is 3ECTS, so it's not very complicate
 
 ABSTRACT_TESI.pdf is a short abstract explaining what I've done
 
